@@ -9,7 +9,7 @@ To run the program, you'll need to have Go and the gopacket library installed on
 1. Clone the repository to your local machine
 2. Change the target network interface in the code. (default is "en0")
 3.  Make sure to run this program as administrator/root.
-4. Run the program
+4. Run it. 
 The program will begin capturing packets and logging the source and destination ports, and protocol. To stop capturing, use `ctrl-c` in the terminal.
 
 ### Dependencies
